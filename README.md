@@ -55,7 +55,7 @@
 
 ### 🌐 Connect With Me
 
-- 📧 Email: `mdselimahmed6467@gmail.com`
+- 📧 Email: mdselimahmed6467@gmail.com
 - 🔗 GitHub: [github.com/Selim-Ahmed93](https://github.com/Selim-Ahmed93)
 - 💬 LinkedIn:www.linkedin.com/in/selim-ahmed
 - 🌍 Portfolio: *Coming Soon*
