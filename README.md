@@ -54,12 +54,13 @@
 ---
 
 ### 🌐 Connect With Me
+📧 Email: [mdselimahmed6467@gmail.com](mailto:mdselimahmed6467@gmail.com)  
+🐦 Twitter: [@Selim__Ahmed__](https://twitter.com/Selim__Ahmed__)  
+🔗 GitHub: [github.com/Selim-Ahmed93](https://github.com/Selim-Ahmed93)  
+💬 LinkedIn: [www.linkedin.com/in/selim-ahmed](https://www.linkedin.com/in/selim-ahmed)  
+🌍 Portfolio: Coming Soon
 
-- 📧 Email: [mdselimahmed6467@gmail.com](mailto:mdselimahmed6467@gmail.com)
-- 🐦 Twitter: [@Selim__Ahmed__](https://twitter.com/@Selim__Ahmed__)
-- 🔗 GitHub: [github.com/Selim-Ahmed93](https://github.com/Selim-Ahmed93)
-- 💬 LinkedIn:www.linkedin.com/in/selim-ahmed
-- 🌍 Portfolio: *Coming Soon*
+
 
 ---
 
